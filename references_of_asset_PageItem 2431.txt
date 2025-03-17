@@ -1,5 +1,0 @@
-The references of game asset "PageItem 2431":
----------------------------------------------
-
-Sprites:
-    mf1_spr_player_up
